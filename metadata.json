@@ -1,0 +1,6 @@
+{
+  "name": "N-Queens Master",
+  "description": "A dynamic and interactive N-Queens puzzle solver with back-tracking visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
